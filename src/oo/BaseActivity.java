@@ -9,8 +9,13 @@ public class BaseActivity extends Activity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
-		// TODO Auto-generated method stub
+		tt();
 		super.onCreate(savedInstanceState);
+	}
+
+	private void tt() {
+		// TODO Auto-generated method stub
+		
 	}
 
 	@Override
